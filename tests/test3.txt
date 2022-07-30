@@ -1,0 +1,11 @@
+nodes
+A,None
+B,None
+C,None
+D,None
+E,None
+paths
+A,B
+B,C
+C,D
+D,A

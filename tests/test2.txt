@@ -1,0 +1,10 @@
+nodes
+A,None
+B,None
+C,None
+D,green
+paths
+A,B
+B,C
+C,D
+D,A
